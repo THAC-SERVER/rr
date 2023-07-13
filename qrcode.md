@@ -1,6 +1,4 @@
-[点击返回index](https://arcxingye.github.io/)
-
-rickroll新码 长按或右键保存
+rickroll二维码 长按或右键保存
 
 <img width="300" height="300" src="https://github.com/arcxingye/arcxingye.github.io/blob/main/r18/r.jpg?raw=true"/>
 
@@ -17,7 +15,3 @@ rickroll新码 长按或右键保存
 累计上当总次数：
 
 ![rickroll](https://count.getloli.com/get/@rickroll)
-
-更新记录
-
-2022/3/31 a.html寄了，改为a1.html
