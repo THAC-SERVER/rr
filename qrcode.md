@@ -1,6 +1,6 @@
 rickroll二维码 长按或右键保存
 
-<img width="300" height="300" src="https://imgs.wiki/imgs/2022/04/13/050c04ae7be3d888.jpg"/>
+<img width="300" height="300" src="https://imgs.wiki/imgs/2023/07/13/8a6388fd6b649664.png"/>
 
 <img width="300" height="300" src="https://imgs.wiki/imgs/2023/07/13/5ff49aad2e68e06f.png"/>
 
